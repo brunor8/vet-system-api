@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\VetSystem.Api\VetSystem.API.csproj" />
+    <ProjectReference Include="..\..\src\VetSystem.API\VetSystem.API.csproj" />
   </ItemGroup>
 
 </Project>

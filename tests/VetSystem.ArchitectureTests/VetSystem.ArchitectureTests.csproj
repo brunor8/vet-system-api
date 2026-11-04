@@ -23,7 +23,7 @@
     <ProjectReference Include="..\..\src\VetSystem.Domain\VetSystem.Domain.csproj" />
     <ProjectReference Include="..\..\src\VetSystem.Application\VetSystem.Application.csproj" />
     <ProjectReference Include="..\..\src\VetSystem.Infrastructure\VetSystem.Infrasctructure.csproj" />
-    <ProjectReference Include="..\..\src\VetSystem.Api\VetSystem.API.csproj" />
+    <ProjectReference Include="..\..\src\VetSystem.API\VetSystem.API.csproj" />
   </ItemGroup>
 
 </Project>
