@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VetSystem.Api/VetSystem.API.csproj" />
+    <Project Path="src/VetSystem.Application/VetSystem.Application.csproj" />
+    <Project Path="src/VetSystem.Domain/VetSystem.Domain.csproj" />
+    <Project Path="src/VetSystem.Infrastructure/VetSystem.Infrasctructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/VetSystem.Api.IntegrationTests/VetSystem.Api.IntegrationTests.csproj" />
+    <Project Path="tests/VetSystem.Application.UnitTests/VetSystem.Application.UnitTests.csproj" />
+    <Project Path="tests/VetSystem.ArchitectureTests/VetSystem.ArchitectureTests.csproj" />
+    <Project Path="tests/VetSystem.Domain.UnitTests/VetSystem.Domain.UnitTests.csproj" />
+  </Folder>
+</Solution>
