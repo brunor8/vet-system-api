@@ -22,6 +22,13 @@ indent_size = 2
 # C# files
 [*.cs]
 
+[*.cs]
+csharp_style_namespace_declarations = file_scoped:warning
+
+# Test method names use underscores
+[tests/**.cs]
+dotnet_diagnostic.CA1707.severity = none
+
 #### Core EditorConfig Options ####
 
 # Indentation and spacing
